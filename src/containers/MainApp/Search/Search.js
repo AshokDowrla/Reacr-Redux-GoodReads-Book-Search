@@ -158,21 +158,7 @@ return(
          
           </div>
          
-          <div className={classes.AllResults} style={{visibility:dis}}  >
-          <div >
-           {paginationElement}
-         </div>
-            <AllResults results ={this.props.searchResults}  />
-         
-        
           
-            <div >
-            {paginationElement}
-          </div>
-         
-
-         </div>
-           
        <div className={classes.AllResults} style={{visibility:dis}}  >
           <div >
            {paginationElement}
