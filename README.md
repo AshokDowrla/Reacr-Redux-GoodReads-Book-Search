@@ -1,3 +1,32 @@
+A simple Search Engine for books which uses Goodreads API to fetch Results.
+
+Try live demo : https://react-redux-359d4.firebaseapp.com/
+
+Stack
+
+React (Create React App)
+
+Redux
+
+Firebase
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
