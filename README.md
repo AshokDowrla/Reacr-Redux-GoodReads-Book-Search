@@ -1,6 +1,6 @@
 A simple Search Engine for books which uses Goodreads API to fetch Results.
 
-Try live demo : https://react-redux-359d4.firebaseapp.com/
+Try live demo : https://react-redux-da523.firebaseapp.com/
 
 Stack
 
